@@ -55,6 +55,6 @@ int main()
 }
 ```
 ## Output:
-
+![page](https://github.com/balar2004/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/assets/118791778/1972b0fb-caa9-45c6-9e80-1d2644867a5d)
 ## Result:
 Thus the implementation of paging technique for memory management is executed successfully.
